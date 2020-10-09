@@ -1,0 +1,5 @@
+#Infomation pour le projet Programmation Avancee 
+Membres: 1 . VU Lam Phong   
+         2 . KEIL Matthieu 
+Jeu: Pacman
+Langage: C++ (prevu)
